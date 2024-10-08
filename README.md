@@ -3,7 +3,7 @@
 #### Technical Skills: R, Python, MATLAB, Excel, ArcGIS,
 
 ## Education		        		
-- B.S., Applied Mathematics | Wheaton College (_Dec 2024_)
+- B.S., Applied Mathematics |   Wheaton College (_Dec 2024_)
 - B.A., Environmental Science | Wheaton College (_Dec 2024_)
 
 ## Work Experience
