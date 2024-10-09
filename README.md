@@ -20,7 +20,7 @@
 - Analyzed geospatial datasets to support decision-making processes and meet client needs.
 - Synthesized research findings and communicated results to interdisciplinary teams.
 
-**Water Resource Monitoring Intern at Mississippi Watershed Management Organization (_May 2023 - Aug 2023_))**
+**Water Resource Monitoring Intern at Mississippi Watershed Management Organization (_May 2023 - Aug 2023_)**
 - Collected physical and biological water quality data from urban portions of the Mississippi River watershed.
 - Maintained stormwater management BMP infrastructure.
 - Performed watertable surveys on developed land within the watershed.
