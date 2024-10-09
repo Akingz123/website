@@ -1,5 +1,11 @@
 title: Aidan Kingsbury
 logo: /images/Head_Shot.png
-#description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+links:
+  - title: "Download Resume"
+    url: /documents/Aidan_Kingsbury_Resume.pdf
+  - title: "Contact"
+    url: mailto:ajkingsbury02@gmail.com
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/aidan-kingsbury-908593257/
