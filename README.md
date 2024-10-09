@@ -1,13 +1,13 @@
-# Data Scientist
+# Portfolio
 
-#### Technical Skills: R, Python, MATLAB, Excel, ArcGIS,
+## Data Science and Accademic Portfolio
 
 ## Education		        		
 - B.S., Applied Mathematics   | Wheaton College (_Dec 2024_)
 - B.A., Environmental Science | Wheaton College (_Dec 2024_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Civil Engineering Intern at Webster, McGrath & Ahlberg Ltd. (_Aug 2024 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
