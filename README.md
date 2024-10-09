@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Civil Engineering Intern at Webster, McGrath & Ahlberg Ltd. (_Aug 2024 - Present_)**
-> Hands on Experience 
+  Hands on Experience 
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
