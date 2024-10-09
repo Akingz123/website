@@ -8,9 +8,9 @@
 
 ## Work Experience
 **Civil Engineering Intern at Webster, McGrath & Ahlberg Ltd. (_Aug 2024 - Present_)**
-        Hands on Experience 
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Conducted watershed delineation using AutoCAD, processing topographical and geological data.
+- Modeled site-specific hydrographs in Hydrology Studio to characterize stormwater flow and flood risk.
+- Assisted in the design of stormwater infrastructure such as detention basins and culverts.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
