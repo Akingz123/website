@@ -11,7 +11,7 @@
 - Assist in the design of stormwater infrastructure such as detention basins and culverts.
 
 **Undergraduate Research Fellow at Wheaton College (_May 2024 - Aug 2024_)**
-- Completed a summer research project in outdoor near-feild air pollution dispersion modeling.
+- Completed a summer research project in outdoor near-field air pollution dispersion modeling.
 - Developed original software in R studio using ShinyApps to aide in data collection and processing.
 - Modeled air pollution dispersion data using a variety of statistical methods in Excel and JMP.
 
