@@ -2,8 +2,7 @@ title: Aidan Kingsbury
 logo: /images/Head_Shot.png
 show_downloads: false
 theme: jekyll-theme-minimal
-description: >
-  Hi, I'm Aidan Kingsbury, a student majoring in Applied Mathematics and Environmental Science. 
-  You can <a href="/documents/Aidan_Kingsbury_Resume.pdf">Download my resume</a>, 
-  <a href="mailto:ajkingsbury02@gmail.com">Contact me</a>, 
-  or check out my <a href="https://www.linkedin.com/in/aidan-kingsbury-908593257/">LinkedIn profile</a>.
+description: > 
+  <a href="/documents/Aidan_Kingsbury_Resume.pdf" download>Resume</a>, 
+  <a href="mailto:ajkingsbury02@gmail.com">Email</a>, 
+  <a href="https://www.linkedin.com/in/aidan-kingsbury-908593257/">LinkedIn</a>.
