@@ -9,6 +9,7 @@
 - Conduct watershed delineation using AutoCAD, processing topographical and geological data.
 - Model site-specific hydrographs in Hydrology Studio to characterize stormwater flow and flood risk.
 - Assist in the design of stormwater infrastructure such as detention basins and culverts.
+-  You can [Download my resume](./documents/Aidan_Kingsbury_Resume.pdf)
 
 **Undergraduate Research Fellow at Wheaton College (_May 2024 - Aug 2024_)**
 - Completed a summer research project in outdoor near-field air pollution dispersion modeling.
