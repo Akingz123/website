@@ -1,7 +1,8 @@
 title: Aidan Kingsbury
 logo: /images/Head_Shot.png
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 show_downloads: false
+
 description: > 
   <a href="/documents/Aidan_Kingsbury_Resume.pdf" download>Resume</a>, 
   <a href="mailto:ajkingsbury02@gmail.com">Email</a>, 
