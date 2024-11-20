@@ -3,6 +3,7 @@
 ## Education		        		
 - B.S., Applied Mathematics   | Wheaton College (_Dec 2024_)
 - B.A., Environmental Science | Wheaton College (_Dec 2024_)
+ <a href="documents/Aidan_Kingsbury_Resume.pdf" download>Resume</a>
 
 ## Work Experience
 **Civil Engineering Intern at Webster, McGrath & Ahlberg Ltd. (_Aug 2024 - Present_)**
