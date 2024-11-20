@@ -6,7 +6,7 @@
 
 ## Work Experience
 **Civil Engineering Intern at Webster, McGrath & Ahlberg Ltd. (_Aug 2024 - Present_)**
-- Conduct watershed delineation using AutoCAD, processing topographical and geological data.
+- Conduct watershed delineation using AutoCAD, processing topographical, civil, and geological data.
 - Model site-specific hydrographs in Hydrology Studio to characterize stormwater flow and flood risk.
 - Assist in the design of stormwater infrastructure such as detention basins and culverts.
 
