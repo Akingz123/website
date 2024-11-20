@@ -1,24 +1,8 @@
 description:
-  <a href="/documents/Aidan_Kingsbury_Resume.pdf" download>Resume</a>, 
+  <a href="website/documents/Aidan_Kingsbury_Resume.pdf" download>Resume</a>, 
+  <a href="mailto:ajkingsbury02@gmail.com">Email</a>, 
   <a href="https://www.linkedin.com/in/aidan-kingsbury-908593257/">LinkedIn</a>.
 title: Aidan Kingsbury
 logo: /images/Head_Shot.png
 theme: jekyll-theme-minimal
 show_downloads: false
-
-# Optional: Custom description (uncomment if needed)
-# description: "Data Science | Environmental Science | GIS"
-
-# Links to be displayed on your site
-links:
-  - title: "Download Resume"
-    url: /resume.pdf
-  - title: "Contact"
-    url: mailto:your-email@example.com
-  - title: "LinkedIn"
-    url: https://www.linkedin.com/in/your-linkedin-username
-
-# Social settings for footer (if your theme supports it)
-social:
-  email: your-email@example.com
-  linkedin: your-linkedin-username
